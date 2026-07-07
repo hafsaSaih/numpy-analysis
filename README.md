@@ -12,7 +12,7 @@ four visualizations to answer RQ2.
 ## How to reproduce
 
 ### 1. Clone this repository
-git clone <your-github-repo-url>
+git clone <https://github.com/hafsaSaih/numpy-analysis.git>
 cd numpy-analysis
 
 ### 2. Clone the NumPy repository into the same folder
